@@ -13,14 +13,14 @@ author_profile: true
 - 📫 **chkim3867@chungbuk.ac.kr** <br />
 
 # Journal paper
-## <p align="center"> First-author
+## First-author
 1) X-Ray Characterization of the Pulsar PSR J1849−0001 and Its Wind Nebula G32.64+0.53 Associated with TeV Sources Detected by H.E.S.S., HAWC, Tibet ASγ, and LHAASO (2023 December 28)  <br />
 (https://iopscience.iop.org/article/10.3847/1538-4357/ad0ecd)  <br />
 
 2) Investigation of the Nonthermal X-Ray Emission from the Supernova Remnant CTB 37B Hosting the Magnetar CXOU J171405.7-381031 (2024 December 11)   <br />
 (https://iopscience.iop.org/article/10.3847/1538-4357/ad938c) <br />
   
-## <p align="center"> Co-author
+## Co-author
 1) X-Ray Studies of the Pulsar PSR J1420–6048 and Its TeV Pulsar Wind Nebula in the Kookaburra Region (2023 March 3)  <br />
 (https://iopscience.iop.org/article/10.3847/1538-4357/acb1b0)  <br />
 
