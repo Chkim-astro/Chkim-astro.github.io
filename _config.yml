@@ -58,4 +58,4 @@ minima:
       icon: x-twitter
       url: "https://x.com/jekyllrb"
       
-remote_theme : mmistakes/minimal-mistakes
+remote_theme : jekyll/minima
