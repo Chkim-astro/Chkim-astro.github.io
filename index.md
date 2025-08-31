@@ -38,7 +38,7 @@ author_profile: true
 # Presentation
 1) Talk : 2021 KAS Fall Meeting (October 13-15, 2021)  <br />
 2) Talk : 2023 KAS Fall Meeting ((October 18-20, 2021)  <br />
-3) Poster :2024 AAS Summer Meeting (June 9-13, 2024)  <br />
+3) Poster : 2024 AAS Summer Meeting (June 9-13, 2024)  <br />
 
 # Award and Grant
 1) 대학원 대통령 과학 장학금 (2025 - )  <br /> 
