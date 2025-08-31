@@ -6,7 +6,7 @@ author_profile: true
 
 <img src="https://github.com/user-attachments/assets/270c5643-6058-44c5-bc93-b2252e0c9ae7" width="300" height="600"/>
 
-- 🔭 I'm a Ph.D student at*Astronomy and Space Science Department at Chungbuk National University.  <br />
+- 🔭 I'm a Ph.D student at Astronomy and Space Science Department at Chungbuk National University.  <br />
 - I'm majoring in High-Energy Astrophysics. **Pulsar Wind Nebulae**, **Supernova Remnants**  <br />
 - I study Pulsar Wind Nebulae (PWNe) and Supernova Remnants (SNRs).  <br />
 - My work includes developing SED models for PWNe.  <br />
