@@ -36,10 +36,10 @@ author_profile: true
 [https://arxiv.org/abs/2508.07660](https://arxiv.org/abs/2508.07660)  <br />
 
 # Presentation
-<p align="left"> 1) Talk : 2021 KAS Fall Meeting (October 13-15, 2021)
-<p align="left"> 2) Talk : 2023 KAS Fall Meeting ((October 18-20, 2021)
-<p align="left"> 3) Poster :2024 AAS Summer Meeting (June 9-13, 2024)   <br />
+1) Talk : 2021 KAS Fall Meeting (October 13-15, 2021)  <br />
+2) Talk : 2023 KAS Fall Meeting ((October 18-20, 2021)  <br />
+3) Poster :2024 AAS Summer Meeting (June 9-13, 2024)  <br />
 
 # Award and Grant
-<p align="left"> 1) 대학원 대통령 과학 장학금 (2025 - ) 
-<p align="left"> 2) 박사과정생연구장려금 (2025 - )  <br />
+1) 대학원 대통령 과학 장학금 (2025 - )  <br /> 
+2) 박사과정생연구장려금 (2025 - )  <br />
