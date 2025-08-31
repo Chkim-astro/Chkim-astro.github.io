@@ -23,8 +23,10 @@ author_profile: true
 ## Co-author
 1) X-Ray Studies of the Pulsar PSR J1420–6048 and Its TeV Pulsar Wind Nebula in the Kookaburra Region (2023 March 3)  <br />
 (https://iopscience.iop.org/article/10.3847/1538-4357/acb1b0)  <br />
+
 2) A Broadband X-Ray Study of the Rabbit Pulsar Wind Nebula Powered by PSR J1418-6058 (2023 March 8)  <br />
 (https://iopscience.iop.org/article/10.3847/1538-4357/acba0e)  <br />
+
 3) X-ray studies of PSR J1838−0655 and its wind nebula associated with HESS J1837−069 and 1LHAASO J1837−0654u (2025 August 11)  <br />
 (https://arxiv.org/abs/2508.07660)  <br />
 
