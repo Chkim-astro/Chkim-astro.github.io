@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="https://github.com/user-attachments/assets/270c5643-6058-44c5-bc93-b2252e0c9ae7" width="300" height="600"/>
+<img src="https://github.com/user-attachments/assets/771c7a84-2013-4cb7-99c2-f9f4ae8f7631" width="300" height="600"/>
 
 - 🔭 I'm a Ph.D candidate in the Astronomy and Space Science Department at Chungbuk National University.  <br />
 - I'm majoring in High-Energy Astrophysics.  <br />
