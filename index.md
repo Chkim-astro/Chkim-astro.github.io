@@ -33,13 +33,15 @@ author_profile: true
 [https://iopscience.iop.org/article/10.3847/1538-4357/acba0e](https://iopscience.iop.org/article/10.3847/1538-4357/acba0e)  <br />
 
 3) X-ray studies of PSR J1838−0655 and its wind nebula associated with HESS J1837−069 and 1LHAASO J1837−0654u (August 11, 2025)  <br />
-[https://arxiv.org/abs/2508.07660](https://arxiv.org/abs/2508.07660)  <br />
+[https://iopscience.iop.org/article/10.3847/1538-4357/adfa08)  <br />
+
 
 # Presentation
 1) Talk : 2021 KAS Fall Meeting (October 13-15, 2021)  <br />
 2) Talk : 2023 KAS Fall Meeting ((October 18-20, 2021)  <br />
 3) Poster : 2024 AAS Summer Meeting (June 9-13, 2024)  <br />
 4) Talk : PWN workshop at Columbia University (Virtual; July 28-29, 2025)  <br />
+5) Poster : 2025 HEAD Meeting (October 12-17, 2025)  <br />
 
 # Award and Grant
 1) 대학원 대통령 과학 장학금 (2025 - )  <br /> 
