@@ -33,7 +33,7 @@ author_profile: true
 [https://iopscience.iop.org/article/10.3847/1538-4357/acba0e](https://iopscience.iop.org/article/10.3847/1538-4357/acba0e)  <br />
 
 3) X-ray studies of PSR J1838−0655 and its wind nebula associated with HESS J1837−069 and 1LHAASO J1837−0654u (August 11, 2025)  <br />
-[https://iopscience.iop.org/article/10.3847/1538-4357/adfa08)  <br />
+[https://iopscience.iop.org/article/10.3847/1538-4357/adfa08](https://iopscience.iop.org/article/10.3847/1538-4357/adfa08)  <br />
 
 
 # Presentation
